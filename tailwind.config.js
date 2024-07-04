@@ -8,7 +8,7 @@ export default {
     extend: {
       colors:{
       main:'#078169',
-      sub:'#6F6C90',
+      sub:'#FF6854',
     },      
     fontFamily: {
       prata: ['Prata', 'serif'],
