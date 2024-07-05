@@ -1,3 +1,4 @@
+import Collections from "./components/Collections"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Offer from "./components/Offer"
@@ -12,6 +13,7 @@ function App() {
     <Slider/>
     <Hero/>
     <Offer/>
+    <Collections/>
     </div>
     </>
   )
