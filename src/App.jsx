@@ -1,4 +1,5 @@
 import Collections from "./components/Collections"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Offer from "./components/Offer"
@@ -16,6 +17,7 @@ function App() {
     <Collections/>
     <Offer/>
     <Products/>
+    <Footer/>
     </div>
     </>
   )
