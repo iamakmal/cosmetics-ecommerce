@@ -22,8 +22,8 @@ export default function Collections() {
 
   return (
     <>
-    <h1 className="text-4xl text-center mt-10">Our Collection</h1>
-    <h1 className="text-lg text-center text-gray-500 mb-10">Checkout our wide collection</h1> 
+    {/* <h1 className="text-4xl text-center mt-10">Our Collection</h1>
+    <h1 className="text-lg text-center text-gray-500 mb-10">Checkout our wide collection</h1>  */}
     <div className="flex justify-center items-center flex-wrap p-5 gap-5">
         {
             collections.map((collection)=>(

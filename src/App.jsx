@@ -2,6 +2,7 @@ import Collections from "./components/Collections"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Offer from "./components/Offer"
+import Products from "./components/Products"
 import Slider from "./components/Slider"
 
 function App() {
@@ -12,8 +13,9 @@ function App() {
     <Navbar/>
     <Slider/>
     <Hero/>
-    <Offer/>
     <Collections/>
+    <Offer/>
+    <Products/>
     </div>
     </>
   )
